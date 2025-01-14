@@ -7,14 +7,14 @@ using System.Threading.Tasks;
 
 namespace DesignPatterns.fabric_method
 {
-    internal class Program
+    /*internal class Program
     {
         static void Main(string[] args) { 
             var client = new ClientCode(); 
             client.execute(); 
         }
     }
-
+    */
     public class ClientCode
     {
         public void execute()
